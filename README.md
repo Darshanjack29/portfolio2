@@ -1,12 +1,11 @@
 <<<<<<< HEAD
-# Ihsan Najeeb - Full Stack Developer Portfolio
+# Darshan - Full Stack Developer Portfolio
 
 Welcome to the repository for my personal portfolio website. This project showcases my skills, experience, and projects as a Full Stack Developer. It features a dynamic, interactive frontend and a robust backend for managing content.
 
 ## 🔗 Live Demo
 
 Check out the live version of my portfolio here:
-👉 **[View Portfolio Website](https://iiamihsan01-hue.github.io/My-Portfolio-Page/)**
 
 ---
 
